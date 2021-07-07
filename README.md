@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Hamad Chabira
+- 👀 I’m interested in Developing games and pixelart/logoart
+- 🌱 I’m currently learning C# GDSript JavaScript Java Python 
+- 💞️ I’m looking to collaborate on any thing that I can help you with
+- 📫 How to reach me on Discord: https://discord.gg/dHDmdSr
